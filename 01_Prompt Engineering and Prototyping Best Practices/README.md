@@ -122,16 +122,19 @@ Use examples if they help clarify the idea.
 
 
 Evaluation on Q1. response with updated prompt:
+-----------------------------------------------
 
 Core concepts coverage: ✓ Yes - Significantly improved from the previous version. Now thoroughly covers all four major OOP principles (objects, classes, encapsulation, inheritance, and polymorphism).
 Completeness: ✓ Yes - Covers all essential OOP concepts with explanations and examples for each.
 
 
 Evaluation on Q2. response with updated prompt:
+-----------------------------------------------
 
 Conciseness: ✓ Yes - This version is significantly more concise than the previous response, condensing the information into a single paragraph.
 
 Evaluation on Q3. response with updated prompt:
+----------------------------------------------
 
 Conciseness: Partially - While the story itself is concise, the addition of a summary afterward is unnecessary and reduces overall conciseness. The summary essentially repeats what was already communicated in the story.
 
