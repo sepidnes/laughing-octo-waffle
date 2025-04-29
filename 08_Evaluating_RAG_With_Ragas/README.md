@@ -42,6 +42,7 @@ The completed notebook!  I used semantic chunking by llama-index and compared re
 
 > NOTE: Completing this challenge will provide full marks on the assignment, regardless of the completion of the notebook. You do not need to complete this in the notebook for full marks.
  I used semantic chunking by llama-index and compared results: https://github.com/sepidnes/AIE6/blob/main/08_Evaluating_RAG_With_Ragas/valuating_RAG_with_RAGA_Semantic_Chunking.ipynb
+> Walkthrough loom: BONUS:  The Link to Semantic chunking using Llama Index Library in my README.
 
 ##### **MINIMUM REQUIREMENTS**:
 
