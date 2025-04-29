@@ -34,7 +34,10 @@ The notebook Colab link is located [here](https://colab.research.google.com/driv
 
 ## Ship 🚢
 
-The completed notebook!  I used semantic chunking by llama-index and compared results: https://github.com/sepidnes/AIE6/blob/main/08_Evaluating_RAG_With_Ragas/valuating_RAG_with_RAGA_Semantic_Chunking.ipynb
+The completed notebook! 
+I used semantic chunking by llama-index and compared results: https://github.com/sepidnes/AIE6/blob/main/08_Evaluating_RAG_With_Ragas/valuating_RAG_with_RAGA_Semantic_Chunking.ipynb
+Walkthrough loom:  The Link to Semantic chunking using Llama Index Library in my README.
+
 
 
 <details>
