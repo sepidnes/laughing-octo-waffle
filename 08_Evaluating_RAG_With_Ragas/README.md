@@ -34,12 +34,19 @@ The notebook Colab link is located [here](https://colab.research.google.com/driv
 
 ## Ship 🚢
 
-The completed notebook!
+The completed notebook! 
+I used semantic chunking by llama-index and compared results: https://github.com/sepidnes/AIE6/blob/main/08_Evaluating_RAG_With_Ragas/valuating_RAG_with_RAGA_Semantic_Chunking.ipynb
+Walkthrough loom: https://www.loom.com/share/df68e3cfc0654d04a300c8c2a339c5cb?sid=1232876e-23b0-47de-b34b-8ea33f0638c5  
+
+
 
 <details>
 <summary>🚧 BONUS CHALLENGE 🚧 (OPTIONAL)</summary>
 
 > NOTE: Completing this challenge will provide full marks on the assignment, regardless of the completion of the notebook. You do not need to complete this in the notebook for full marks.
+
+I used semantic chunking by llama-index and compared results: https://github.com/sepidnes/AIE6/blob/main/08_Evaluating_RAG_With_Ragas/valuating_RAG_with_RAGA_Semantic_Chunking.ipynb
+Walkthrough loom:  https://www.loom.com/share/df68e3cfc0654d04a300c8c2a339c5cb?sid=1232876e-23b0-47de-b34b-8ea33f0638c5
 
 ##### **MINIMUM REQUIREMENTS**:
 
