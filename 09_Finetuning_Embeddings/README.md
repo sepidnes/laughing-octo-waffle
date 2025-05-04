@@ -20,6 +20,8 @@ In today's assignment, we'll be fine-tuning embeddings!
     
 The notebook Colab link is located [here](https://colab.research.google.com/drive/1oISd4Tt3CKcF8SZ9T90PKX_PDhN5JKuM?usp=sharing)
 
+My notebook [here](https://colab.research.google.com/drive/1VzV0WZtCTW3rcQHgHyCmfFy2nhzZH8gQ#scrollTo=DX5R3HVz6FOQ)
+
 ## Ship 🚢
 
 The completed notebook!
