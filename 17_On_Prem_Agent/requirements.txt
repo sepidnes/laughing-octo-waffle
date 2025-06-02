@@ -1,0 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+vllm==0.8.3
+transformers>=4.51.0
+accelerate>=0.27.2
+safetensors>=0.4.1
+sentencepiece>=0.2.0
+ninja>=1.11.1
