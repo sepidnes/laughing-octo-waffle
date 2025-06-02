@@ -16,10 +16,12 @@ from langchain_core.runnables import RunnablePassthrough
 
 #docker run -p 6333:6333 -p 6334:6334     -v "$(pwd)/qdrant_storage:/qdrant/storage:z"     qdrant/qdrant
 # rm -rf .venv
-# uv venv --python=python3.11
+# uv venv --python=python3.12
 # source .venv/bin/activate
 # uv pip install torch==2.1.2+cpu torchvision==0.16.2+cpu torchaudio==2.1.2+cpu --index-url https://download.pytorch.org/whl/cpu && uv pip install vllm==0.8.3 --no-build-isolation
-
+#"torch==2.6.0+cpu",
+    # "torchvision==0.21.0+cpu",
+    # "torchaudio==2.6.0+cpu",
 load_dotenv()
 
 

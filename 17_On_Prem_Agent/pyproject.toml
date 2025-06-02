@@ -10,7 +10,7 @@ dependencies = [
     "langchain>=0.3.20",
     "langchain-ollama>=0.2.3",
     "langchain-community>=0.3.19",
-    "numpy>=2.2.3",
+    "numpy",    
     "unstructured>=0.14.8",
     "jq>=1.8.0",
     "langchain-openai>=0.3.18",
@@ -18,13 +18,5 @@ dependencies = [
     "langserve>=0.3.0",
     "uvicorn>=0.34.3",
     "sse-starlette>=2.3.6",
-    "torch==2.6.0+cpu",
-    "torchvision==0.21.0+cpu",
-    "torchaudio==2.6.0+cpu",
     "vllm==0.8.3",
-    "transformers>=4.51.0",
-    "accelerate>=0.27.2",
-    "safetensors>=0.4.1",
-    "sentencepiece>=0.2.0",
-    "ninja>=1.11.1"
 ]
