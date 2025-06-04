@@ -1,0 +1,8 @@
+1. Introduction to the research paper
+2. Overview of the Llama-3 model and its context capabilities
+3. Details on the QLoRA fine-tuning technique
+4. Efficiency of the training process
+5. Performance improvements in evaluation tasks
+6. Use of synthetic training samples from GPT-4
+7. Implications for future applications
+8. Call to action for readers to engage
